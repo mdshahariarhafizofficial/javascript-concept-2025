@@ -21,3 +21,16 @@ console.log("Total:            "+ total + "Tk");
 myBalance -= total;
 console.log("Available Balance:"+ myBalance + "Tk");
 
+// if I give 3000 tk they back...
+console.log(" ");
+console.log("if I give 3000 tk they back...");
+console.log(" ");
+var pay = 3000;
+console.log("Pay Amount - " + pay + "Tk");
+console.log("---------------------");
+
+var back = pay - total;
+console.log("Return Tk -  " + back + "Tk");
+
+
+
