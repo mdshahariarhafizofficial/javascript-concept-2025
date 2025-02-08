@@ -1,6 +1,5 @@
-//  node ./conditional_task/task-3.js
-
 // Grade Calculator
+
 var marks = 32;
 
 if (marks >= 90 && marks <= 100  ) {
