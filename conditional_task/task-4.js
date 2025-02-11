@@ -1,5 +1,3 @@
-// node ./conditional_task/task-6.js
-
 var marks = 90;
 var friendMark = 33; 
 
